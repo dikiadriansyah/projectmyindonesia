@@ -1,0 +1,300 @@
+<resources>
+    <string name="app_name">projectmyindonesia</string>
+    <string name="tab_museum">Museum</string>
+    <string name="tab_wisata">Wisata</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="navigation_rail">Navigation Rail</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_back">Back</string>
+    <string name="details_screen">Detail Screen</string>
+    <string name="profile">Profile</string>
+    <string name="logo">Indonesia</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+
+    <string name="judul_kota">Kota</string>
+
+    <string name="kota1">Bandung</string>
+    <string name="gambar_kota1">gambar_kota1</string>
+
+    <string name="kota2">Denpasar</string>
+    <string name="gambar_kota2">gambar_kota2</string>
+
+    <string name="kota3">Jakarta</string>
+    <string name="gambar_kota3">gambar_kota3</string>
+
+    <string name="kota4">Jogja</string>
+    <string name="gambar_kota4">gambar_kota4</string>
+
+    <string name="kota5">Malang</string>
+    <string name="gambar_kota5">gambar_kota5</string>
+
+    <string name="kota6">Semarang</string>
+    <string name="gambar_kota6">gambar_kota6</string>
+
+    <string name="tempat">Tempat</string>
+
+    <string name="judul_template">Ini Judul</string>
+    <string name="gambar_template">Ini Gambar</string>
+    <string name="deskripsi_template">ini deskripsi</string>
+
+
+    <string name="tempat1">Lembang Park and zoo</string>
+    <string name="gambar_tempat1">gambar_tempat1</string>
+    <string name="desc1">Lembang memang enggak pernah kehabisan tempat wisata yang seru, dan salah satu tempat wisata di Lembang Bandung yang terbaru adalah Lembang Park and Zoo!
+Terletak di Jl. Kolonel Masturi No. 171, Sukajaya, Lembang, Kabupaten Bandung Barat, Jawa Barat, Lembang Park and Zoo enggak hanya merupakan kebun binatang di mana para pengunjung bisa bertemu dan mengenal berbagai satwa, tapi juga menjadi tempat wisata rekreasi yang menyenangkan.
+</string>
+
+
+    <string name="tempat2">Orchid forest cikole</string>
+    <string name="gambar_tempat2">gambar_tempat1</string>
+    <string name="desc2">Terletak di Cikole, Lembang, Kabupaten Bandung Barat, Jawa Barat, Orchid Forest Cikole adalah hutan anggrek terbesar di Indonesia. Enggak main-main, jumlah anggrek di sini mencapai 20.000 tanaman! Selain anggrek, barisan pohon pinus yang ada di sana juga membuat pemandangan Orchid Forest Cikole menjadi sangat indah.
+Selain menawarkan pemandangan hutan pinus dan anggrek, Orchid Forest Cikole juga memiliki tempat bermain golf, area bermain dengan kelinci, jembatan tali yang bersinar di malam hari, sampai horse ranch.
+</string>
+
+
+    <string name="tempat3">Dusun bambu lembang</string>
+    <string name="gambar_tempat3">gambar_tempat1</string>
+    <string name="desc3">Keindahan alam yang dikemas dengan suasana tradisional ala Sunda. Kombinasi yang pas untuk menghasilkan sebuah tempat wisata di Bandung yang menyenangkan.
+Sulit untuk enggak merasa tertarik datang dan makan di pinggir danau kecil yang jadi ikon Dusun Bambu, yang bisa kamu lihat di foto-foto tempat wisata populer ini. Menginap di Dusun Bambu pun bisa, mau di villa ataupun glamping.
+</string>
+
+    <string name="tempat4">Farmhouse lembang</string>
+    <string name="gambar_tempat4">gambar_tempat1</string>
+    <string name="desc4">Farmhouse Lembang adalah tempat wisata di area Lembang yang menawarkan pengalaman unik: theme park bergaya Eropa! Yup, selain bangunan-bangunannya yang bergaya Belanda, kamu pun bisa mengenakan kostum tradisional ala Belanda yang lucu.
+Spot fotonya banyak, dan ada restoran juga di mana kamu bisa menikmati susu yang jadi jagoan utama tempat ini serta makanan lainnya di dalam restoran dengan interior yang unik.
+</string>
+
+    <string name="tempat5">Grafika cikole</string>
+    <string name="gambar_tempat5">gambar_tempat1</string>
+    <string name="desc5">Pernah melihat foto-foto villa-villa cantik yang berdiri berjajar di tengah hutan pinus yang asri? Besar kemungkinan foto itu berasal dari Grafika Cikole, tempat wisata di Bandung yang populer banget karena villa-villa mini ini.
+Terletak di Cikole, Lembang, Grafika Cikole bukan saja menawarkan penginapan dengan suasana menyenangkan khas Hutan Pinus, tetapi juga berbagai aktivitas outdoor dari ATV, outbound, sampai paintball.
+</string>
+
+    <string name="tempat6">Taman wisata bougenville</string>
+    <string name="gambar_tempat6">gambar_tempat1</string>
+    <string name="desc6">Kalau ingin merasakan wisata alam tak jauh dari Bandung namun dengan fasilitas lengkap yang cocok untuk liburan keluarga, Taman Wisata Bougenville adalah salah satu tempat wisata di Bandung yang harus dikunjungi.
+Punya konsep nature escape namun dengan berbagai fasilitas yang ramah keluarga, Taman Wisata Bougenville adalah tempat yang pas untuk dikunjungi saat ingin menghabiskan liburan keluarga jauh dari kota. Terletak di kaki Gunung Puntang, tempat wisata Bandung yang satu ini benar-benar asri dan menyenangkan untuk dikunjungi!
+</string>
+
+    <string name="tempat7">Tangkuban perahu</string>
+    <string name="gambar_tempat7">gambar_tempat1</string>
+    <string name="desc7">Jika di selatan Bandung ada Kawah Putih, di utara Bandung terdapat Gunung , gunung stratovolcano yang masih aktif dan menjadi tempat wisata populer di Bandung sejak lama. Pengunjung bisa berkunjung sampai ke bibir kawah, dan melihat langsung isi kawah seperti apa.
+Tapi hati-hati ya, bau belerang di sini cukup menyengat!
+</string>
+
+<!--denpasar-->
+    <string name="tempat8">Pantai sanur</string>
+    <string name="gambar_tempat8">gambar_tempat1</string>
+    <string name="desc8">Sanur menyimpan keindahan pesisir pantai Bali yang menakjubkan. Seperti potongan surga yang nyata, Sanur dianugerahi pantai berpasir putih lengkap dengan alam bawah lautnya yang jernih dan asri. Kalau ke Sanur, pokoknya Sobat Pesona wajib banget jelajah pantai dan merasakan sensasi keramahan warga lokal dengan budayanya yang masih terjaga kental.
+</string>
+
+    <string name="tempat9">Pusat konvervasi dan Pendidikan penyu</string>
+    <string name="gambar_tempat9">gambar_tempat1</string>
+    <string name="desc9">Tempat konservasi Penyu di Bali khususnya Denpasar, salah satunya bisa temukan di Pulau Serangan, sebuah kawasan yang sekarang menjadi destinasi wisata yang cukup populer bagi wisatawan yang liburan dan mengagendakan tur di Bali.
+Di pulau ini anda bisa menemukan berbagai atraksi dan layanan wisata. Pulau Serangan adalah pulau kecil dengan luas sekitar 300 hektar, terletak di sebelah Selatan kota Denpasar.
+Pusat Konservasi penyu di inj Pulau Serangan terletak di jalan Tukad Wisata, No 4, Desa Serangan, Denpasar Selatan – Bali.
+Lokasinya cukup terjangkau dari pusat-pusat pariwisata di kawasan Bali Selatan seperti Kuta, Nusa Dua dan Canggu, juga dekat dari Bandara Ngurah Rai dan wilayah Sanur.
+</string>
+
+    <string name="tempat10">Pantai sindhu</string>
+    <string name="gambar_tempat10">gambar_tempat1</string>
+    <string name="desc10">Pantai Sindhu merupakan pantai yang selalu ramai dikunjungi wisatawan baik lokal maupun mancanegara, Pantai ini berpasir putih dengan ombak yang tidak begitu besar. Garis pantai ini sama dengan pantai Sanur. Banyak wisatawan datang ke pantai sindu untuk menikmati makanan dan minuman yang disajikan disepanjang pantai ini. aktifitas yang bisa dilakukan di pantai ini antara lain: berenang, memancing, berjemur dan bersantai. Selain itu yang cukup menarik di pantai ini adalah jasa masage yang telah bersiap di pinggir pantai. Pelanggan jasa massage di Pantai Sindu sebagian besar pelanggannya adalah wisatawan mancanegara. Jarak tempuh yang diperlukan untuk bisa sampai di Pantai Sindhu ini kira-kira 15 menit dengan jarak tempuh lebih kurang 8 km dari Kota Denpasar.
+</string>
+
+    <string name="tempat11">Monumen bajra sandhi</string>
+    <string name="gambar_tempat11">gambar_tempat1</string>
+    <string name="desc11">Museum Bajra Sandhi atau yang lebih dikenal sebagai monumen Bajra Sandhi adalah monumen yang melambangkan perjuangan rakyat Bali yang terletak di Renon, Denpasar Bali. Monumen yang menempata tanah 13,8 hektar dengan luas gedung 4900 meter ini dirancang oleh Ir. Ida Gede pada tahun 1981. Pembangunan monumen mulai dilakukan pada tahun 1987 atas prakarsa mantan Gubernur Bali, Ida Bagus Mantra. Pada tanggal 14 Juni 2003, monumen baru diresmikan oleh Presiden Megawati Soekarno Putri.
+</string>
+
+    <string name="tempat12">Pantai cemara</string>
+    <string name="gambar_tempat12">gambar_tempat1</string>
+    <string name="desc12">Pantai Cemara terletak di desa Sanur, Denpasar. Di deretan pantai ini terdapat beberapa pantai lainnya, seperti pantai Sindhu, pantai Mertasari, dll. Pantai ini memiliki pasir putih yang indah. Cocok untuk tempat berjemur, dengan deretan hotel-hotel bintang 5. Di areal pantai ini terdapat juga Pura Dalem Cemara Geseng yang tak kalah indah dan religius. Pada zaman dahulu kawasan wisata ini banyak ditumbuhi pohon Cemara Geseng, sehingga dinamai pantai Cemara. Pada akhir pekan atau hari libur, pantai biasanya jadi tujuan wisata warga Kota Denpasar untuk bersantai dengan gratis. Pantai Cemara di selatan Pantai Sanur bisa jadi alternatif kalau di Sanur ramai sekali.
+</string>
+
+    <string name="tempat13">Serangan beach</string>
+    <string name="gambar_tempat13">gambar_tempat1</string>
+    <string name="desc13">Pulau Serangan adalah pulau yang berada di Denpasar, Bali. Untuk datang ke Pulau Serangan ini aksesnya terbilang mudah karena dapat dijangkau dengan jalur darat melalui jembatan dan jalan permanen yang menghubungkan Pulau Serangan dengan Pulau Bali.
+Dilansir dari laman web balitoursclub.net, zaman dulu Pulau Serangan hanyalah pulau kecil dan terletak jauh dari daratan Bali. Jika masyarakat ingin ke sana, hanya bisa diakses menggunakan perahu dari Tanjung Benoa
+</string>
+
+    <string name="tempat14">Pantai mertasari</string>
+    <string name="gambar_tempat14">gambar_tempat1</string>
+    <string name="desc14">Pantai Mertasari adalah panorama yang indah saat sunrise dan sunset. Tidak heran jika pantai ini sering dijadikan tempat bersantai oleh warga dan wisatawan lokal. Berbeda dengan Pantai Kuta dan pantai lainnya yang sudah terkenal, Pantai Mertasari belum banyak dikunjungi wisatawan asing.
+Biasanya, Pantai Mertasari mulai dipenuhi pengunjung pada pukul 05.00 WITA, saat langit masih gelap-gelapnya. Spot foto favorit wisatawan adalah dermaga yang terbuat dari semen dan batu. Di ujung dermaga itu terdapat gazebo kecil dimana Anda bisa duduk sambil menikmati panorama sunrise.
+</string>
+
+<!--    Jakarta -->
+    <string name="tempat15">Taman margasatwa ragunan</string>
+    <string name="gambar_tempat15">gambar_tempat1</string>
+    <string name="desc15">Nama kebun binatang ini memang sudah tak asing lagi karena menjadi salah satu kebun binatang tertua di Indonesia, terutama di Jakarta.
+Di Kebun Binatang Ragunan, kita bisa menemukan aneka spesies binatang secara lengkap.
+Mulai dari hewan primata, mamalia, ikan, dan masih banyak lagi. Tercatat ada sekitar 300 jenis hewan yang ada di kebun binatang ini
+</string>
+
+    <string name="tempat16">Taman mini Indonesia indah</string>
+    <string name="gambar_tempat16">gambar_tempat1</string>
+    <string name="desc16">Wisata Jakarta yang pertama adalah Taman Mini Indonesia Indah atau yang lebih dikenal dengan singkatan TMII.
+TMII merupakan salah satu tempat wisata yang di dalamnya terdapat banyak sekali wahana untuk dinikmati.
+Terdapat miniatur rumah adat, taman bunga, taman dinosaurus, gedung teater, hingga museum yang bisa kita datangi di TMII.
+</string>
+
+    <string name="tempat17">Monument nasional</string>
+    <string name="gambar_tempat17">gambar_tempat1</string>
+    <string name="desc17">Monumen Nasional atau yang disingkat dengan nama Monas adalah destinasi wisata Jakarta yang sekaligus menjadi ikon kota Jakarta.
+Tak lengkap rasanya jika kita tidak datang ke Monas saat sedang berwisata di Jakarta.
+Ini merupakan tempat wisata murah di Jakarta yang patut Moms kunjungi bersama keluarga.
+Monas adalah sebuah monumen peringatan setinggi 132 meter.
+</string>
+
+    <string name="tempat18">Museum bank indonesia</string>
+    <string name="gambar_tempat18">gambar_tempat1</string>
+    <string name="desc18">Museum BI menempati gedung BI Kota yang sebelumnya digunakan oleh De Javasche Bank, gedung yang mempunyai nilai sejarah yang tinggi. Pemerintah telah menetapkan bangunan tersebut sebagai bangunan cagar budaya sesuai SK Gubernur Provinsi DKI Jakarta No.475 tahun 1993.
+Pelestarian gedung BI Kota sejalan dengan kebijakan Pemerintah DKI Jakarta yang mencanangkan daerah Kota Tua sebagai salah satu daerah bersejarah di Jakarta. Sebagai salah satu pelopor revitalisasi gedung-gedung bersejarah di Kota Tua, BI bermaksud menyajikan pengetahuan terkait peran BI dalam perjalanan sejarah bangsa, termasuk memaparkan latar belakang kebijakan BI yang diambil dari waktu ke waktu.
+</string>
+
+    <string name="tempat19">Setu babakan</string>
+    <string name="gambar_tempat19">gambar_tempat1</string>
+    <string name="desc19">Ingin mencari wisata Jakarta yang mengenalkan tentang budaya? Datang saja ke Setu Babakan.
+Setu Babakan adalah pusat perkampungan budaya Betawi. Jadi, di sini Moms bisa mempelajari tentang budaya Betawi.
+Di dalam Setu Babakan terdapat panggung pertunjukan, toko suvenir, hingga beragam kuliner khas Betawi yang bisa dicicipi.
+</string>
+
+    <string name="tempat20">Planetarium</string>
+    <string name="gambar_tempat20">gambar_tempat1</string>
+    <string name="desc20">Buat penyuka astronomi, ada Planetarium yang merupakan wisata Jakarta yang menyajikan pemandangan luar angkasa.
+Di dalam Planetarium ini kita akan melihat konsep tata surya dan juga replika letak planet dan bintang. Planetarium terletak di dalam Taman Ismail Marzuki.
+Jika ingin datang ke Planetarium, Moms harus datang pagi-pagi, ya!
+</string>
+
+    <string name="tempat21">Kota tua</string>
+    <string name="gambar_tempat21">gambar_tempat1</string>
+    <string name="desc21">Masih dengan objek wisata Jakarta yang menjadi ikon, ada Kota Tua yang berlokasi di Jakarta Barat.
+Kota Tua ini sangat populer dengan bangunan-bangunan kolonialnya.
+Dinamakan Kota Tua karena memang arsitektur bangunannya sudah ada sejak zaman penjajahan Belanda dan hingga sekarang masih tetap dilestarikan.
+</string>
+
+<!--    jogja-->
+    <string name="tempat22">Candi Borobudur</string>
+    <string name="gambar_tempat22">gambar_tempat1</string>
+    <string name="desc22">Sobat Pesona pastinya sudah tidak asing kan dengan Candi Borobudur? Terletak di Kabupaten Magelang, Jawa Tengah, candi yang sangat megah dan rupawan ini telah dikenal oleh wisatawan lokal maupun mancanegara sebagai kuil Buddha terbesar di dunia. Wajar saja, karena Candi Borobudur memiliki luas sekitar 2500 meter persegi, dengan panjang 121,66 meter, lebar 121,38 meter, dan tinggi 35,40 meter.
+</string>
+
+    <string name="tempat23">Candi Prambanan</string>
+    <string name="gambar_tempat23">gambar_tempat1</string>
+    <string name="desc23">Candi Prambanan merupakan candi Hindu yang terbesar di Indonesia. Sampai saat ini belum dapat dipastikan kapan candi ini dibangun dan atas perintah siapa, namun kuat dugaan bahwa Candi Prambanan dibangun sekitar pertengahan abad ke-9 oleh raja dari Wangsa Sanjaya, yaitu Raja Balitung Maha Sambu. Dugaan tersebut didasarkan pada isi Prasasti Syiwagrha yang ditemukan di sekitar Prambanan dan saat ini tersimpan di Museum Nasional di Jakarta. Prasasti berangka tahun 778 Saka (856 M) ini ditulis pada masa pemerintahan Rakai Pikatan.
+</string>
+
+    <string name="tempat24">Malioboro</string>
+    <string name="gambar_tempat24">gambar_tempat1</string>
+    <string name="desc24">Malioboro merupakan nama salah satu jalan di pusat Kota Yogyakarta. Jalan Malioboro itu sendiri merupakan salah satu jalan dari tiga jalan di Kota Yogyakarta yang membentang dari Tugu Yogyakarta hingga ke perempatan Kantor Pos Yogyakarta. Secara keseluruhan terdiri dari Jalan Pangeran Mangkubumi, Jalan Malioboro, dan Jalan Jend. A. Yani. Jalan Malioboro merupakan poros Garis Imajiner Kraton Yogyakarta.
+</string>
+
+
+    <string name="tempat25">Heha ocean view</string>
+    <string name="gambar_tempat25">gambar_tempat1</string>
+    <string name="desc25">Salah satu destinasi wisata di bawah naungan PT Anugerah HeHa Jaya yang terletak di tepi tebing pantai wilayah Bolang yang mengarah langsung ke pemandangan laut selatan Gunungkidul. HeHa Ocean View menawarkan berbagai spot foto terbaik dan paket wisata glamping dengan pemandangan laut lepas dari atas tebing dan panorama matahari tenggelam saat sunset.
+</string>
+
+
+    <string name="tempat26">Tamansari</string>
+    <string name="gambar_tempat26">gambar_tempat1</string>
+    <string name="desc26">Taman Sari berarti taman yang indah. Taman ini hanya berjarak sepuluh menit berjalan kaki dari istana Sultan ke arah baratdaya. Taman ini dibangun oleh Sultan Hamengku Buwono I pada tahun 1757. Beliau menciptakan gaya arsitektur baru yang merupakan campuran gaya Jawa dan Portugis. Pada mulanya Taman Sari adalah taman air yang indah dan menawan. Daerah di sebelah timur taman sampai ke perempatan kota disebut Suryoputran. Segaran dalam bahasa Jawa berarti laut buatan. Setiap kali Sultan mengunjungi taman tersebut, beliau akan mendayung perahu pribadinya melewati jembatan gantung yang disebut ‘Kreteg Gantung’ yang terletak di depan gerbang Kraton, ke arah selatan atau utara Kemandungan. Bagian lain dari bangunan yang dulu terhubung dengan jembatan gantung masih dapat dilihat. Selain transportasi air, terdapat juga jalan bawah tanah atau terowongan dari Kraton Yogyakarta yang menuju salah satu bangunan di taman yang disebut Pasarean Ledok Sari.
+</string>
+
+    <string name="tempat27">Pantai  parangtritis</string>
+    <string name="gambar_tempat27">gambar_tempat1</string>
+    <string name="desc27">Pantai Parangtritis hanya berjarak 27 km dari pusat Kota Yogyakarta. Pantai ini terkenal dengan pemandangan sunset yang romantis. Selain itu, Pantai Parangtritis ini merupakan pantai yang paling terkenal di antara pantai-pantai lain yang tersebar di wilayah Yogyakarta.
+Pantai ini mempunyai pemandangan yang unik dan tidak terdapat pada obyek wisata lain. Obyek wisata ini mempunyai ombak yang besar dan di sekitar tempat wisata ini terdapat gunung-gunung pasir yang disebut dengan gumuk.
+</string>
+
+    <string name="tempat28">Gunung merapi</string>
+    <string name="gambar_tempat28">gambar_tempat1</string>
+    <string name="desc28">Gunung ini adalah gunung termuda dalam rangkaian gunung berapi yang mengarah ke selatan dari Gunung Ungaran, Gunung Merbabu, dan Gunung Merapi. Gunung ini terbentuk karena aktivitas di zona subduksi Lempeng Indo-Australia yang bergerak ke bawah Lempeng Eurasia menyebabkan munculnya aktivitas vulkanik di sepanjang bagian tengah Pulau Jawa. Puncak yang sekarang ini tidak ditumbuhi vegetasi karena aktivitas vulkanik yang tinggi. Puncak ini tumbuh di sisi barat daya puncak Batulawang yang lebih tua
+</string>
+
+<!--    Malang -->
+    <string name="tempat29">Batu flower garden</string>
+    <string name="gambar_tempat29">gambar_tempat1</string>
+    <string name="desc29">Selain bisa berkunjung ke Florawisata San Terra de Lafonte, para pencinta bunga bisa juga mampir ke Batu Flower Garden. Tempat ini dibangun di kawasan lereng Gunung Panderman di atas ketinggian 1.000 sampai 1.200 meter di atas permukaan laut (mdpl), sekaligus berada di atas lahan Perhutani.
+</string>
+
+    <string name="tempat30">Pantai parang dowo</string>
+    <string name="gambar_tempat30">gambar_tempat1</string>
+    <string name="desc30">Tempat wisata Instagramable tidak hanya berlokasi dataran tinggi, tapi juga di dataran rendah, salah satunya Pantai Parang Dowo. Pantai Parang Dowo berlokasi di kawasan Gajahrejo, Gedangan, Kabupaten Malang.
+Salah satu daya tarik Pantai Parang Dowo adalah batu karang yang warnanya berubah-ubah tergantung musim. Saat musim hujan, misalnya, warna karangnya menjadi hijau. Pantai ini juga memiliki gugusan batu karang. Hal itu membuat ombak lautan tidak begitu terasa. Meski begitu, wisatawan tetap harus berhati-hati.
+</string>
+
+    <string name="tempat31">Alun alun malang</string>
+    <string name="gambar_tempat31">gambar_tempat1</string>
+    <string name="desc31">Jika ingin berwisata dengan biaya murah bisa datang ke Alun-alun Malang. Kulinernya juga sangat lengkap. Ada banyak tempat makan legendaris yang wajib didatangi.
+Desain alun-alun pada malam hari juga cukup Instagramable. Apalagi sekarang sudah ada banyak lampu hias yang dijadikan dekorasi di tempat ini. Tempat ini buka selama 24 jam dan berlokasi di Jalan Merdeka Selatan, Kiduldalem, Klojen, Kota Malang.
+</string>
+
+    <string name="tempat32">Museum angkut</string>
+    <string name="gambar_tempat32">gambar_tempat1</string>
+    <string name="desc32">Museum Angkut adalah Museum Transportasi kendaraan tradisional hingga modern Terbesar Pertama di Asia
+Museum Angkut dikelola oleh Jawa Timur Park Group yang sebelumnya juga membangun Batu Secret Zoo, Batu Night Spectacular (BNS), Eco Green Park dan Museum Satwa. Museum ini didirikan pada 9 Maret 2014.
+</string>
+
+    <string name="tempat33">Jatim park1</string>
+    <string name="gambar_tempat33">gambar_tempat1</string>
+    <string name="desc33">Jatim Park 1 merupakan tempat rekreasi yang memiliki konsep taman bermain yang dipadukan dengan taman edukasi.
+</string>
+
+    <string name="tempat34">Pantai balekambang</string>
+    <string name="gambar_tempat34">gambar_tempat1</string>
+    <string name="desc34">Pantai Balekambang di Kabupaten Malang, Jawa Timur, telah menjadi daya tarik tersendiri bagi para wisatawan yang mencari tempat yang indah dan damai untuk berlibur.
+Lokasinya yang terletak di Desa Srigonco, Kecamatan Bantur, membuatnya menjadi destinasi favorit bagi mereka yang ingin melarikan diri dari hiruk-pikuk kehidupan perkotaan
+</string>
+
+    <string name="tempat35">Bukit nirwana</string>
+    <string name="gambar_tempat35">gambar_tempat1</string>
+    <string name="desc35">Bukit Nirwana merupakan salah satu tujuan rekreasi populer di Kabupaten Malang. Tempat wisata ini termasuk dalam kawasan Desa Pujon. Kawasan dataran tinggi ini memang menawarkan panorama alam yang cantik. Lokasinya pun dekat dengan kota, sehingga melejit sebagai destinasi wisata hits.
+Bukit Nirwana memadukan pesona alam asri perbukitan dengan tempat makan bergaya kekinian. Bukit yang dikelilingi pegunungan ini menyajikan tempat bercengkerama di tengah suasana sejuk. Wisatawan bisa menikmati keindahan alam sekaligus puas makan dan berfoto tanpa perlu membayar mahal.
+Bukit Nirwana menyediakan fasilitas camping dengan paket Rp 400.000 mencakup bebas tiket masuk, tenda isi empat orang, matras, bakar-bakaran, dan api unggun.
+</string>
+
+<!--    semarang -->
+
+
+    <string name="tempat36">Saloka Theme Park</string>
+    <string name="gambar_tempat36">gambar_tempat1</string>
+    <string name="desc36">Saloka Theme Park atau Saloka Park adalah sebuah taman bermain raksasa yang terletak di Kabupaten Semarang, sekitar 1 jam menggunakan mobil dari Kota Semarang. Letaknya tak jauh dari Danau Rawa Pening, dan bisa dicapai dengan mudah juga dari Ungaran dan Salatiga.
+</string>
+
+    <string name="tempat37">Dusun Semilir Eco park</string>
+    <string name="gambar_tempat37">gambar_tempat1</string>
+    <string name="desc37">Dusun Semilir Eco Park terhitung tempat wisata di Semarang yang baru karena dibuka pada awal 2019 lalu. Meski begitu, destinasi wisata Semarang yang satu ini langsung jadi salah satu yang terpopuler bagi warga Semarang dan sekitarnya karena bentuk eksterior dan interior bangunan yang unik!
+</string>
+
+    <string name="tempat38">Taman Wilis</string>
+    <string name="gambar_tempat38">gambar_tempat1</string>
+    <string name="desc38">Taman Wilis bisa jadi pilihan untuk melepas penat sembari menikmati pemandangan kota. Taman ini sering dipakai wisatawan sekadar bersantai atau juga berolahraga. Taman Wilis terletak agak jauh dari pusat kota, sehingga kamu enggak bakal mendengar hiruk pikuk jalan raya di sini.
+Salah satu yang sering jadi buruan wisatawan adalah melihat pesona matahari terbit dari salah satu spot yang ada di Taman Wilis. Bisa jadi pilihan alternatif karena untuk masuk ke destinasi wisata Semarang yang satu ini, ini kamu tidak akan dikenakan biaya masuk alias gratis.
+</string>
+
+    <string name="tempat39">Candi gedong Songo</string>
+    <string name="gambar_tempat39">gambar_tempat1</string>
+    <string name="desc39">Candi Gedong Songo adalah kompleks bangunan candi Hindu yang terletak di Bandungan, Kabupaten Semarang, tepatnya di lereng Gunung Ungaran. Sesuai namanya, ada sembilan (angka sembilan disebut songo dalam Bahasa Jawa) candi berbeda di kawasan wisata candi Gedong Songo ini. Sejak lama, Candi Gedong Songo merupakan salah satu tempat wisata populer di Kabupaten Semarang, lho!
+</string>
+
+    <string name="tempat40">Museum Kereta Api Ambarawa</string>
+    <string name="gambar_tempat40">gambar_tempat1</string>
+    <string name="desc40">Tempat wisata menarik tak cuma berada di pusat kota saja, di luar pusat Kota Semarang juga masih menyimpan tempat wisata yang patut dikunjungi. Salah satunya adalah Museum Kereta Api Ambarawa ini. Museum ini dulunya merupakan stasiun kereta api yang fungsinya kini dialihkan sebagai museum.
+</string>
+
+    <string name="tempat41">Pantai Marina</string>
+    <string name="gambar_tempat41">gambar_tempat1</string>
+    <string name="desc41">Berkunjung ke kota yang memiliki pantai maka jangan lupa untuk mengunjunginya. Salah satu yang direkomendasikan di Semarang ialah Pantai Marina. Terletak di dekat Bandara Ahmad Yani, pantai ini adalah tempat romantis untuk menikmati panorama sunset bersama pasangan.
+Selain itu, kamu juga bisa berwisata air dengan menyewa kapal yang dibanderol dengan harga yang cukup terjangkau. Di kapal kamu bisa menikmati pemandangan indah pantai sambil menyantap makanan yang lezat tentunya.
+</string>
+    <string name="tempat42">Lawang sewu</string>
+    <string name="gambar_tempat42">gambar_tempat1</string>
+    <string name="desc42">Bicara soal wisata Semarang, tentu aja harus menyebut Lawang Sewu! Merupakan bekas kantor pusat Perusahaan Kereta Hindia Belanda, gedung ini juga sempat dijadikan kantor Djawatan Kereta Api Repoeblik Indonesia dan Kantor Badan Prasarana Komando Daerah Militer.
+Sekarang, Lawang Sewu telah direvitalisasi dan dikonservasi menjadi sebuah museum dan tempat wisata. Lawang Sewu merupakan salah satu objek wisata Semarang paling populer, dan terkenal dengan jumlah pintunya yang banyak hingga orang menyebutnya Lawang Sewu alias Seribu Pintu. Konon jumlah seluruh pintunya enggak sampai seribu kok, kamu bisa buktikan sendiri saat berwisata ke sana!
+</string>
+
+
+
+</resources>
